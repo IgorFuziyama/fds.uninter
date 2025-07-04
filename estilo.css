@@ -1,0 +1,28 @@
+body {background-color: beige;}
+h1 {color: rgb(17, 0, 255);
+    text-align: center;
+}
+p.p1 {font-size: 30px;
+    text-align: justify;
+}
+ul li {
+    margin-bottom: 10px;
+}
+img {
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+  width: 80%;
+  background-color: #b7b9a6;
+}
+td {
+  border: 2px solid;
+  padding: 10px;
+  text-align: center;
+}
+a:hover {
+    color:red
+}
